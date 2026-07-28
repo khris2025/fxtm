@@ -21,7 +21,7 @@ include('layout/header.php');
                         <h3 class="slide-title"><span>We Trade </span> Cryptocurrencies and binary.</h3>
                         <p style="margin-top:6rem;">
                             <a href="about.php" class="btn btn-primary">Learn more</a>
-                            <a href="https://dashboard.fxtm-capitalgrowth.comregister" class="btn btn-primary">Trade now</a>
+                            <a href="https://users.fxtm-capitalgrowth.comregister" class="btn btn-primary">Trade now</a>
                         </p>
                     </div>
                 </div>
@@ -36,7 +36,7 @@ include('layout/header.php');
                         <div class="slider-text">
                             <h3 class="slide-title">Your financial success is our <span>Goal</span> at <span>FXTM CAPITAL GROWTH</span>.</h3>
                             <p style="margin-top:6rem;">
-                                <a href="https://dashboard.fxtm-capitalgrowth.com/login" class="btn btn-primary">Sign in</a>
+                                <a href="https://users.fxtm-capitalgrowth.com/login" class="btn btn-primary">Sign in</a>
                                 <a href="user/signup" class="btn btn-primary">Join now</a>
                             </p>
                         </div>
@@ -52,8 +52,8 @@ include('layout/header.php');
                         <div class="slider-text">
                             <h3 class="slide-title">Trading with <span>FXTM CAPITAL GROWTH</span> guarantees high profit margin.</h3>
                             <p style="margin-top:6rem;">
-                                <a href="https://dashboard.fxtm-capitalgrowth.com/login" class="btn btn-primary">Sign in</a>
-                                <a href="https://dashboard.fxtm-capitalgrowth.com/login" class="btn btn-primary">Join now</a>
+                                <a href="https://users.fxtm-capitalgrowth.com/login" class="btn btn-primary">Sign in</a>
+                                <a href="https://users.fxtm-capitalgrowth.com/login" class="btn btn-primary">Join now</a>
                             </p>
                         </div>
                     </div>
@@ -757,7 +757,7 @@ include('layout/header.php');
                                         <span class="plan-box-item__value">5%</span>
                                     </span>
                                     <span class="plan-box-item__col">
-                                        <a href="https://dashboard.fxtm-capitalgrowth.com/login" class="btn btn-primary bg-primary-gradient">
+                                        <a href="https://users.fxtm-capitalgrowth.com/login" class="btn btn-primary bg-primary-gradient">
                                     Invest
                                 </a>
                                     </span>
@@ -817,7 +817,7 @@ include('layout/header.php');
                                         <span class="plan-box-item__value">5.71%</span>
                                     </span>
                                     <span class="plan-box-item__col">
-                                        <a href="https://dashboard.fxtm-capitalgrowth.com/login" class="btn btn-primary bg-primary-gradient">
+                                        <a href="https://users.fxtm-capitalgrowth.com/login" class="btn btn-primary bg-primary-gradient">
                                     Invest
                                 </a>
                                     </span>
@@ -877,7 +877,7 @@ include('layout/header.php');
                                         <span class="plan-box-item__value">6%</span>
                                     </span>
                                     <span class="plan-box-item__col">
-                                        <a href="https://dashboard.fxtm-capitalgrowth.com/login" class="btn btn-primary bg-primary-gradient">
+                                        <a href="https://users.fxtm-capitalgrowth.com/login" class="btn btn-primary bg-primary-gradient">
                                     Invest
                                 </a>
                                     </span>
@@ -937,7 +937,7 @@ include('layout/header.php');
                                         <span class="plan-box-item__value">6.43%</span>
                                     </span>
                                     <span class="plan-box-item__col">
-                                        <a href="https://dashboard.fxtm-capitalgrowth.com/login" class="btn btn-primary bg-primary-gradient">
+                                        <a href="https://users.fxtm-capitalgrowth.com/login" class="btn btn-primary bg-primary-gradient">
                                     Invest
                                 </a>
                                     </span>
@@ -1141,7 +1141,7 @@ include('layout/header.php');
                     </div>
                     <!-- Call To Action Text Ends -->
                     <!-- Call To Action Button Starts -->
-                    <p class="action-btn"><a class="btn btn-primary" href="https://dashboard.fxtm-capitalgrowth.comregister">Register Now</a></p>
+                    <p class="action-btn"><a class="btn btn-primary" href="https://users.fxtm-capitalgrowth.comregister">Register Now</a></p>
                     <!-- Call To Action Button Ends -->
                 </div>
             </div>

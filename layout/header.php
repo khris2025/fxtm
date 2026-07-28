@@ -230,8 +230,8 @@
           <!-- User Sign In/Sign Up Starts -->
           <div class="col-md-3 col-lg-3">
             <ul class="unstyled user">
-              <li class="sign-in"><a href="https://dashboard.fxtm-capitalgrowth.com/login" class="btn btn-primary">sign in</a></li>
-              <li class="sign-up"><a href="https://dashboard.fxtm-capitalgrowth.com/register" class="btn btn-primary">register</a></li>
+              <li class="sign-in"><a href="https://users.fxtm-capitalgrowth.com/login" class="btn btn-primary">sign in</a></li>
+              <li class="sign-up"><a href="https://users.fxtm-capitalgrowth.com/register" class="btn btn-primary">register</a></li>
             </ul>
           </div>
           <!-- User Sign In/Sign Up Ends -->
