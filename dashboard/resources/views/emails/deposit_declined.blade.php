@@ -29,14 +29,14 @@
 </head>
 <body>
     <div class="container">
-        {{-- <img class="logo" src="https://dasbhoard.inv.fxtm-capitalgrowth.com/register/public/assets/images/bit-blockdigital_images/logomain.png" alt="Company Logo"> --}}
+        {{-- <img class="logo" src="https://users.primecrownholdinginc.com/register/public/assets/images/bit-blockdigital_images/logomain.png" alt="Company Logo"> --}}
         <div class="message">
             <h2>Deposit Not Successful</h2>
             <p>Hello {{ $user->name }},</p>
             <p>We regret to inform you that the deposit of ${{ number_format($deposit_amount) }} to your account was not successful.</p>
             <p>Your account balance remains unchanged.</p>
             <p>Please feel free to contact our support if you have any questions or concerns.</p>
-            <p>Sincerely,<br> FXTM CAPITAL GROWTH</p>
+            <p>Sincerely,<br> PRIME-CROWN HOLDING INC. </p>
         </div>
     </div>
 </body>

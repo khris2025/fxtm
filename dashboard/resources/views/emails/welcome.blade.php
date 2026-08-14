@@ -29,7 +29,7 @@
 </head>
 <body>
     <div class="container">
-        {{-- <img class="logo" src="https://dasbhoard.inv.fxtm-capitalgrowth.com/register/public/assets/images/bit-blockdigital_images/logomain.png" alt="Company Logo"> --}}
+        {{-- <img class="logo" src="https://users.primecrownholdinginc.com/register/public/assets/images/bit-blockdigital_images/logomain.png" alt="Company Logo"> --}}
         <div class="message">
             <h2>Welcome to Our Service</h2>
             <p>Hello {{ $user->fullname }},</p>
@@ -40,7 +40,7 @@
             <p>If the button above doesn't work, you can also copy and paste the following link into your browser:</p>
             <p>{{ route('verify_email', ['token' => $token]) }}</p>
             <p>Thank you for becoming a part of our community!</p>
-            <p>Sincerely,<br> FXTM CAPITAL GROWTH</p>
+            <p>Sincerely,<br> PRIME-CROWN HOLDING INC. </p>
         </div>
     </div>
 </body>

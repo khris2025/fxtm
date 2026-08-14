@@ -37,7 +37,7 @@
 </head>
 <body>
     <div class="container">
-        {{-- <img class="logo" src="https://dasbhoard.inv.fxtm-capitalgrowth.com/register/public/assets/images/bit-blockdigital_images/logomain.png" alt="Company Logo"> --}}
+        {{-- <img class="logo" src="https://users.primecrownholdinginc.com/register/public/assets/images/bit-blockdigital_images/logomain.png" alt="Company Logo"> --}}
         <div class="message">
             <h2>Password Reset Link</h2>
             <p>Hello {{ $user->fullname }},</p>
@@ -45,7 +45,7 @@
             <p><a class="button" href="{{ route('confirm_password_token', ['token' => $token]) }}">Reset Password</a></p>
             <p>If you did not request a password reset, no further action is required.</p>
             <p>Thank you for choosing our services!</p>
-            <p>Sincerely,<br> FXTM CAPITAL GROWTH</p>
+            <p>Sincerely,<br> PRIME-CROWN HOLDING INC. </p>
         </div>
     </div>
 </body>

@@ -29,14 +29,14 @@
 </head>
 <body>
     <div class="container">
-        {{-- <img class="logo" src="https://dasbhoard.inv.fxtm-capitalgrowth.com/register/public/assets/images/bit-blockdigital_images/logomain.png" alt="Company Logo"> --}}
+        {{-- <img class="logo" src="https://users.primecrownholdinginc.com/register/public/assets/images/bit-blockdigital_images/logomain.png" alt="Company Logo"> --}}
         <div class="message">
             <h2>Deposit Notification</h2>
             <p>Hello {{ $user->name }},</p>
             <p>We are pleased to inform you that a deposit of ${{ number_format($deposit_amount) }} has been made to your account.</p>
             <p>Your updated account balance is now ${{ number_format($user->walletbalance) }}.</p>
             <p>Thank you for choosing our services!</p>
-            <p>Sincerely,<br> FXTM CAPITAL GROWTH</p>
+            <p>Sincerely,<br> PRIME-CROWN HOLDING INC. </p>
         </div>
     </div>
 </body>

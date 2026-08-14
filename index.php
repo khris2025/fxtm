@@ -21,7 +21,7 @@ include('layout/header.php');
                         <h3 class="slide-title"><span>We Trade </span> Cryptocurrencies and binary.</h3>
                         <p style="margin-top:6rem;">
                             <a href="about.php" class="btn btn-primary">Learn more</a>
-                            <a href="https://users.fxtm-capitalgrowth.comregister" class="btn btn-primary">Trade now</a>
+                            <a href="https://users.primecrownholdinginc.comregister" class="btn btn-primary">Trade now</a>
                         </p>
                     </div>
                 </div>
@@ -34,9 +34,9 @@ include('layout/header.php');
                 <div class="col-md-12">
                     <div class="container">
                         <div class="slider-text">
-                            <h3 class="slide-title">Your financial success is our <span>Goal</span> at <span>FXTM CAPITAL GROWTH</span>.</h3>
+                            <h3 class="slide-title">Your financial success is our <span>Goal</span> at <span>PRIME-CROWN HOLDING INC. </span>.</h3>
                             <p style="margin-top:6rem;">
-                                <a href="https://users.fxtm-capitalgrowth.com/login" class="btn btn-primary">Sign in</a>
+                                <a href="https://users.primecrownholdinginc.com/login" class="btn btn-primary">Sign in</a>
                                 <a href="user/signup" class="btn btn-primary">Join now</a>
                             </p>
                         </div>
@@ -50,10 +50,10 @@ include('layout/header.php');
                 <div class="col-md-12">
                     <div class="container">
                         <div class="slider-text">
-                            <h3 class="slide-title">Trading with <span>FXTM CAPITAL GROWTH</span> guarantees high profit margin.</h3>
+                            <h3 class="slide-title">Trading with <span>PRIME-CROWN HOLDING INC. </span> guarantees high profit margin.</h3>
                             <p style="margin-top:6rem;">
-                                <a href="https://users.fxtm-capitalgrowth.com/login" class="btn btn-primary">Sign in</a>
-                                <a href="https://users.fxtm-capitalgrowth.com/login" class="btn btn-primary">Join now</a>
+                                <a href="https://users.primecrownholdinginc.com/login" class="btn btn-primary">Sign in</a>
+                                <a href="https://users.primecrownholdinginc.com/login" class="btn btn-primary">Join now</a>
                             </p>
                         </div>
                     </div>
@@ -757,7 +757,7 @@ include('layout/header.php');
                                         <span class="plan-box-item__value">5%</span>
                                     </span>
                                     <span class="plan-box-item__col">
-                                        <a href="https://users.fxtm-capitalgrowth.com/login" class="btn btn-primary bg-primary-gradient">
+                                        <a href="https://users.primecrownholdinginc.com/login" class="btn btn-primary bg-primary-gradient">
                                     Invest
                                 </a>
                                     </span>
@@ -817,7 +817,7 @@ include('layout/header.php');
                                         <span class="plan-box-item__value">5.71%</span>
                                     </span>
                                     <span class="plan-box-item__col">
-                                        <a href="https://users.fxtm-capitalgrowth.com/login" class="btn btn-primary bg-primary-gradient">
+                                        <a href="https://users.primecrownholdinginc.com/login" class="btn btn-primary bg-primary-gradient">
                                     Invest
                                 </a>
                                     </span>
@@ -877,7 +877,7 @@ include('layout/header.php');
                                         <span class="plan-box-item__value">6%</span>
                                     </span>
                                     <span class="plan-box-item__col">
-                                        <a href="https://users.fxtm-capitalgrowth.com/login" class="btn btn-primary bg-primary-gradient">
+                                        <a href="https://users.primecrownholdinginc.com/login" class="btn btn-primary bg-primary-gradient">
                                     Invest
                                 </a>
                                     </span>
@@ -937,7 +937,7 @@ include('layout/header.php');
                                         <span class="plan-box-item__value">6.43%</span>
                                     </span>
                                     <span class="plan-box-item__col">
-                                        <a href="https://users.fxtm-capitalgrowth.com/login" class="btn btn-primary bg-primary-gradient">
+                                        <a href="https://users.primecrownholdinginc.com/login" class="btn btn-primary bg-primary-gradient">
                                     Invest
                                 </a>
                                     </span>
@@ -1055,7 +1055,7 @@ include('layout/header.php');
                     <div class="user-img-testimony text-center">
                         <p>&quot;
                             This is one of the best companies I've invested in, they give high profits and they are responsible for any loss.
-                            Thank you FXTM CAPITAL GROWTH.
+                            Thank you PRIME-CROWN HOLDING INC. .
                             .&quot;
                         </p>
                         <!-- <img class="text-center" src="/assets/images/testimony/user-2.png"  alt="user" />  -->
@@ -1072,7 +1072,7 @@ include('layout/header.php');
                 </div>
                 <div class="item">
                     <div class="user-img-testimony text-center">
-                        <p>&quot; OMG! I only started using FXTM CAPITAL GROWTH a month back and i just cannot belive by how much my balance has grown.
+                        <p>&quot; OMG! I only started using PRIME-CROWN HOLDING INC.  a month back and i just cannot belive by how much my balance has grown.
                             www.priortradeoption.org Rocks! &quot;</p>
                         <!-- <img class="text-center" src="/assets/images/testimony/user-4.png"  alt="user" />  -->
                         <span class="color-yellow">Jane Matthew</span> - Canada
@@ -1097,7 +1097,7 @@ include('layout/header.php');
                 </div>
                 <div class="item">
                     <div class="user-img-testimony text-center">
-                        <p>&quot;I'm so excited, I give gratitude to the entire staff of FXTM CAPITAL GROWTH,
+                        <p>&quot;I'm so excited, I give gratitude to the entire staff of PRIME-CROWN HOLDING INC. ,
                             I have received my profit of $4000, thank you all especially to my manager..&quot;</p>
                         <!-- <img class="text-center" src="/assets/images/testimony/user-7.png"  alt="user" />  -->
                         <span class="color-yellow">Jordan brooks Thomas</span> - USA
@@ -1106,7 +1106,7 @@ include('layout/header.php');
                 <div class="item">
                     <div class="user-img-testimony text-center">
                         <p>&quot;This is what you call online trading, I had doubt at first but I decided to try with just little and watched it grow to something big.
-                            Thank You FXTM CAPITAL GROWTH.
+                            Thank You PRIME-CROWN HOLDING INC. .
 
                             .&quot;</p>
                         <!-- <img class="text-center" src="/assets/images/testimony/user-8.png"  alt="user" />  -->
@@ -1115,7 +1115,7 @@ include('layout/header.php');
                 </div>
                 <div class="item">
                     <div class="user-img-testimony text-center">
-                        <p>&quot;I've joined a lot of trading websites. FXTM CAPITAL GROWTH is the only one that has consistently made me profit in the long term. very happy customer and I will be buying Gold Plan this weekend so that should say it all!&quot;</p>
+                        <p>&quot;I've joined a lot of trading websites. PRIME-CROWN HOLDING INC.  is the only one that has consistently made me profit in the long term. very happy customer and I will be buying Gold Plan this weekend so that should say it all!&quot;</p>
                         <!-- <img class="text-center" src="/assets/images/testimony/user-9.png"  alt="user" />  -->
                         <span class="color-yellow">TASHA LEWIS </span> - South Africa
                     </div>
@@ -1136,12 +1136,12 @@ include('layout/header.php');
                 <div class="col-xs-12">
                     <!-- Call To Action Text Starts -->
                     <div class="action-text">
-                        <h2>Get Started Today With FXTM CAPITAL GROWTH</h2>
+                        <h2>Get Started Today With PRIME-CROWN HOLDING INC. </h2>
                         <p class="lead">Let us help get you on the right track as you start your investment journey!</p>
                     </div>
                     <!-- Call To Action Text Ends -->
                     <!-- Call To Action Button Starts -->
-                    <p class="action-btn"><a class="btn btn-primary" href="https://users.fxtm-capitalgrowth.comregister">Register Now</a></p>
+                    <p class="action-btn"><a class="btn btn-primary" href="https://users.primecrownholdinginc.comregister">Register Now</a></p>
                     <!-- Call To Action Button Ends -->
                 </div>
             </div>

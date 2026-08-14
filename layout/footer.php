@@ -25,7 +25,7 @@
                             <li><a href="faq.php">FAQ</a></li>
                             <li><a href="terms.php">Terms of Services</a></li>
                             <li><a href="user/signup">Register</a></li>
-                            <li><a href="https://dasbhoard.inv.fxtm-capitalgrowth.com/login">Login</a></li>
+                            <li><a href="https://users.primecrownholdinginc.com/login">Login</a></li>
                         </ul>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
                             <span>New York</span><br>
                         </div>
                         <div>
-                            <span>support@fxtm-capitalgrowth.com </span>
+                            <span>support@primecrownholdinginc.com</span>
                         </div>
                         <div>
                             <span>Mon-Sun, 24/7</span>
@@ -110,7 +110,7 @@
 
                     <script>
                       document.getElementById("copyright").innerHTML =
-                        `FXTM CAPITAL GROWTH &copy; ${new Date().getFullYear()} All Rights Reserved`;
+                        `PRIME-CROWN HOLDING INC.  &copy; ${new Date().getFullYear()} All Rights Reserved`;
                     </script>
                     <!-- Copyright Text Ends -->
                 </div>

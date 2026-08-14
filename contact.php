@@ -95,7 +95,7 @@ include('layout/header.php');
                             <div class="contact-info-box-content">
                                 <h4>Email Address</h4>
 
-                                <p>support@inv.fxtm-capitalgrowth.com
+                                <p>support@primecrownholdinginc.com/
                                 </p>
                             </div>
                         </div>
@@ -115,7 +115,7 @@ include('layout/header.php');
                 <div class="col-xs-12">
                     <!-- Call To Action Text Starts -->
                     <div class="action-text">
-                        <h2>Get Started Today With FXTM CAPITAL GROWTH</h2>
+                        <h2>Get Started Today With PRIME-CROWN HOLDING INC. </h2>
                         <p class="lead">Let us help get you on the right track as you start your investment journey!</p>
                     </div>
                     <!-- Call To Action Text Ends -->

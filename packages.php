@@ -90,7 +90,7 @@ include('layout/header.php');
                                     <span class="plan-box-item__value">5%</span>
                                 </span>
                                 <span class="plan-box-item__col">
-                                    <a href="https://dasbhoard.inv.fxtm-capitalgrowth.com/register" class="btn btn-primary bg-primary-gradient">
+                                    <a href="https://users.primecrownholdinginc.com/register" class="btn btn-primary bg-primary-gradient">
                                         Invest
                                     </a>
                                 </span>
@@ -150,7 +150,7 @@ include('layout/header.php');
                                     <span class="plan-box-item__value">5.71%</span>
                                 </span>
                                 <span class="plan-box-item__col">
-                                    <a href="https://dasbhoard.inv.fxtm-capitalgrowth.com/register" class="btn btn-primary bg-primary-gradient">
+                                    <a href="https://users.primecrownholdinginc.com/register" class="btn btn-primary bg-primary-gradient">
                                         Invest
                                     </a>
                                 </span>
@@ -210,7 +210,7 @@ include('layout/header.php');
                                     <span class="plan-box-item__value">6%</span>
                                 </span>
                                 <span class="plan-box-item__col">
-                                    <a href="https://dasbhoard.inv.fxtm-capitalgrowth.com/register" class="btn btn-primary bg-primary-gradient">
+                                    <a href="https://users.primecrownholdinginc.com/register" class="btn btn-primary bg-primary-gradient">
                                         Invest
                                     </a>
                                 </span>
@@ -270,7 +270,7 @@ include('layout/header.php');
                                     <span class="plan-box-item__value">6.43%</span>
                                 </span>
                                 <span class="plan-box-item__col">
-                                    <a href="https://dasbhoard.inv.fxtm-capitalgrowth.com/register" class="btn btn-primary bg-primary-gradient">
+                                    <a href="https://users.primecrownholdinginc.com/register" class="btn btn-primary bg-primary-gradient">
                                         Invest
                                     </a>
                                 </span>
@@ -291,12 +291,12 @@ include('layout/header.php');
                 <div class="col-xs-12">
                     <!-- Call To Action Text Starts -->
                     <div class="action-text">
-                        <h2>Get Started Today With FXTM CAPITAL GROWTH</h2>
+                        <h2>Get Started Today With PRIME-CROWN HOLDING INC. </h2>
                         <p class="lead">Let us help get you on the right track as you start your investment journey!</p>
                     </div>
                     <!-- Call To Action Text Ends -->
                     <!-- Call To Action Button Starts -->
-                    <p class="action-btn"><a class="btn btn-primary" href="https://dasbhoard.inv.fxtm-capitalgrowth.com/register">Register Now</a></p>
+                    <p class="action-btn"><a class="btn btn-primary" href="https://users.primecrownholdinginc.com/register">Register Now</a></p>
                     <!-- Call To Action Button Ends -->
                 </div>
             </div>

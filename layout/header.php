@@ -11,38 +11,38 @@
   <meta name="csrf-token" content="TGsNneKG8nuKuIV1Pwjtj4Wn0hGYV3WJt89rYhdM">
 
   <meta charset="utf-8" />
-  <title>FXTM CAPITAL GROWTH</title>
+  <title>PRIME-CROWN HOLDING INC. </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
   <!-- Favicon -->
   <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
   <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-  <!-- <meta name="description" content="FXTM CAPITAL GROWTH is a trusted paying binary and Cryptocurrency trading company. Earn high returns from our proven trading strategies.">
-  <meta name="title" content="FXTM CAPITAL GROWTH">
-  <meta name="keywords" content="FXTM CAPITAL GROWTH, FXTM CAPITAL GROWTH, priortradeoption.org , binary trading, Broker, forex trading, Investment, forex investment, Trusted investment platforms, Egypt investment platforms,  US investment platforms, UK investment platforms, Paying websites, investment websites, trusted investment platform.">
+  <!-- <meta name="description" content="PRIME-CROWN HOLDING INC.  is a trusted paying binary and Cryptocurrency trading company. Earn high returns from our proven trading strategies.">
+  <meta name="title" content="PRIME-CROWN HOLDING INC. ">
+  <meta name="keywords" content="PRIME-CROWN HOLDING INC. , PRIME-CROWN HOLDING INC. , priortradeoption.org , binary trading, Broker, forex trading, Investment, forex investment, Trusted investment platforms, Egypt investment platforms,  US investment platforms, UK investment platforms, Paying websites, investment websites, trusted investment platform.">
   <meta name="robots" content="index"> -->
 
   <!-- Open Graph / Facebook -->
   <!-- <meta property="og:type" content="website">
   <meta property="og:url" content="https://priortradeoption.org ">
-  <meta property="og:title" content="FXTM CAPITAL GROWTH">
-  <meta property="og:description" content="FXTM CAPITAL GROWTH is a trusted paying binary and Cryptocurrency trading company. Earn high returns from our proven trading strategies.">
+  <meta property="og:title" content="PRIME-CROWN HOLDING INC. ">
+  <meta property="og:description" content="PRIME-CROWN HOLDING INC.  is a trusted paying binary and Cryptocurrency trading company. Earn high returns from our proven trading strategies.">
   <meta property="og:image" content="assets/images/pp.jpg"> -->
 
   <!-- Twitter -->
   <!-- <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:url" content="https://priortradeoption.org ">
-  <meta property="twitter:title" content="FXTM CAPITAL GROWTH">
-  <meta property="twitter:description" content="FXTM CAPITAL GROWTH is a trusted paying binary and cryptocurrency trading company. Earn high returns from our proven trading strategies.">
+  <meta property="twitter:title" content="PRIME-CROWN HOLDING INC. ">
+  <meta property="twitter:description" content="PRIME-CROWN HOLDING INC.  is a trusted paying binary and cryptocurrency trading company. Earn high returns from our proven trading strategies.">
   <meta property="twitter:image" content="assets/images/pp.jpg"> -->
 
   <link rel="manifest" href="manifest.json">
 
   <!-- <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="application-name" content="FXTM CAPITAL GROWTH">
-  <meta name="apple-mobile-web-app-title" content="FXTM CAPITAL GROWTH">
+  <meta name="application-name" content="PRIME-CROWN HOLDING INC. ">
+  <meta name="apple-mobile-web-app-title" content="PRIME-CROWN HOLDING INC. ">
   <meta name="theme-color" content="#e8b90e">
   <meta name="msapplication-navbutton-color" content="#e8b90e">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -230,8 +230,8 @@
           <!-- User Sign In/Sign Up Starts -->
           <div class="col-md-3 col-lg-3">
             <ul class="unstyled user">
-              <li class="sign-in"><a href="https://users.fxtm-capitalgrowth.com/login" class="btn btn-primary">sign in</a></li>
-              <li class="sign-up"><a href="https://users.fxtm-capitalgrowth.com/register" class="btn btn-primary">register</a></li>
+              <li class="sign-in"><a href="https://users.primecrownholdinginc.com/login" class="btn btn-primary">sign in</a></li>
+              <li class="sign-up"><a href="https://users.primecrownholdinginc.com/register" class="btn btn-primary">register</a></li>
             </ul>
           </div>
           <!-- User Sign In/Sign Up Ends -->
@@ -243,7 +243,7 @@
           <div class="site-nav-inner">
             <!-- Logo For ONLY Mobile display Starts -->
             <a class="logo-mobile" href="index.html">
-              <img id="logo-mobile" class="img-responsive" src="assets/images/logo.png" alt="FXTM CAPITAL GROWTH">
+              <img id="logo-mobile" class="img-responsive" src="assets/images/logo.png" alt="PRIME-CROWN HOLDING INC. ">
             </a>
             <!-- Logo For ONLY Mobile display Ends -->
             <!-- Toggle Icon for Mobile Starts -->
