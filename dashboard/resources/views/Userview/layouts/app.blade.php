@@ -40,7 +40,7 @@
                      <!-- <img src="../images/safelogo.png" alt="" height="34"> -->
                   </span>
                   <span class="logo-lg">
-                  <img src="{{ asset('assets/images/logo.png') }}" alt="" height="30%" width="30%"> 
+                  {{-- <img src="{{ asset('assets/images/logo.png') }}" alt="" height="30%" width="30%">  --}}
                   </span>
                </a>
             </div>

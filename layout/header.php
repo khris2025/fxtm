@@ -243,7 +243,7 @@
           <div class="site-nav-inner">
             <!-- Logo For ONLY Mobile display Starts -->
             <a class="logo-mobile" href="index.html">
-              <img id="logo-mobile" class="img-responsive" src="assets/images/logo.png" alt="PRIME-CROWN HOLDING INC. ">
+              <!-- <img id="logo-mobile" class="img-responsive" src="assets/images/logo.png" alt="PRIME-CROWN HOLDING INC. "> -->
             </a>
             <!-- Logo For ONLY Mobile display Ends -->
             <!-- Toggle Icon for Mobile Starts -->
